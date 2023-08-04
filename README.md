@@ -1,10 +1,10 @@
 # 💫 About Me
 
-🔭 I’m currently working on AWS services, mainly on EC2, RDS, and System Manager<br>🌱 I’m currently learning Lambda, Jenkins, K8s<br>💬 Ask me about Cloud computing, DSA, ML, and React Js.<br>⚡ Fun fact I love to play chess♟️
+🔭 I’m currently working on AWS services, mainly on Lambda, Cloudformation and Code Pipeline<br>🌱 I’m currently learning Jenkins, Docker and K8s<br>💬 Ask me about Cloud computing, DSA, ML, and React Js.<br>⚡ Fun fact I love to play chess♟️
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_._._hariom_._._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/hariom09090) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hariom09090)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/hariom09090) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_._._hariom_._._) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hariom09090)
 
 # 💻 Tech Stack
 
