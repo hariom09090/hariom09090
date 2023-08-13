@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🔭 I’m engaged with various AWS services, primarily focusing on CodePipeline, Lambda, CloudFormation, and API Gateway.<br>🌱 As of now, I’m deepening my expertise in  Jenkins, Docker, K8s, and NextJS<br>💬 Ask me about Data Structures & Algorithms, Cloud computing, ML, C++14, Python, Node & React Js.<br>⚡ Fun fact I love to play chess♟️
+🔭 I’m engaged with various AWS services, primarily focusing on CodePipeline, Lambda, CloudFormation, and API Gateway.<br>🌱 As of now, I’m deepening my expertise in  Jenkins, Docker, K8s, and Next.js<br>💬 Ask me about Data Structures & Algorithms, Cloud computing, ML, C++14, Python, Node & React Js.<br>⚡ Fun fact I love to play chess♟️
 
 ## 🌐 Socials
 
