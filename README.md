@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🔭 I’m currently working on AWS services, mainly on Lambda, Cloudformation and Code Pipeline<br>🌱 I’m currently learning Jenkins, Docker and K8s<br>💬 Ask me about Cloud computing, DSA, ML, and React Js.<br>⚡ Fun fact I love to play chess♟️
+🔭 I’m currently working on AWS services, mainly on Code Pipeline, Lambda, Cloudformation and API Gateway.<br>🌱 I’m currently learning Jenkins, Docker and K8s<br>💬 Ask me about Data Structures & Algorithms, Cloud computing, ML, C++14, Python, Node & React Js.<br>⚡ Fun fact I love to play chess♟️
 
 ## 🌐 Socials
 
